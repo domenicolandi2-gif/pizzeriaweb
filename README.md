@@ -1,2 +1,0 @@
-# pizzeriaweb
-our theaching project
